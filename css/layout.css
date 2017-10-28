@@ -207,8 +207,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 180px;
+   height: 180px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -326,83 +326,131 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .python {
-    width: 80%;
+    width: 95%;
     -moz-animation: python 2s ease;
     -webkit-animation: python 2s ease;
 }
 
 @-moz-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 95%;  }
 }
 
 @-webkit-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 95%;  }
 }
 
 .django {
-    width: 80%;
+    width: 95%;
     -moz-animation: django 2s ease;
     -webkit-animation: django 2s ease;
 }
 
 @-moz-keyframes django {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 95%;  }
 }
 
 @-webkit-keyframes django {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 95%;  }
 }
 
 .linux {
-    width: 60%;
+    width: 85%;
     -moz-animation: linux 2s ease;
     -webkit-animation: linux 2s ease;
 }
 
 @-moz-keyframes linux {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 85%;  }
 }
 
 @-webkit-keyframes linux {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 85%;  }
 }
 
-.php {
-    width: 75%;
-    -moz-animation: php 2s ease;
-    -webkit-animation: php 2s ease;
+.database {
+    width: 80%;
+    -moz-animation: database 2s ease;
+    -webkit-animation: database 2s ease;
 }
 
-@-moz-keyframes php {
+@-moz-keyframes database {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 80%;  }
 }
 
-@-webkit-keyframes php {
+@-webkit-keyframes database {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 80%;  }
 }
 
 .frontend {
-    width: 60%;
+    width: 75%;
     -moz-animation: frontend 2s ease;
     -webkit-animation: frontend 2s ease;
 }
 
 @-moz-keyframes frontend {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 75%;  }
 }
 
 @-webkit-keyframes frontend {
   0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+
+.languages {
+    width: 60%;
+    -moz-animation: languages 2s ease;
+    -webkit-animation: languages 2s ease;
+}
+
+@-moz-keyframes languages {
+  0%   { width: 0px;  }
   100% { width: 60%;  }
+}
+
+@-webkit-keyframes languages {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+
+.data {
+    width: 40%;
+    -moz-animation: data 2s ease;
+    -webkit-animation: data 2s ease;
+}
+
+@-moz-keyframes data {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
+}
+
+@-webkit-keyframes data {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
+}
+
+.ml {
+    width: 40%;
+    -moz-animation: ml 2s ease;
+    -webkit-animation: ml 2s ease;
+}
+
+@-moz-keyframes ml {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
+}
+
+@-webkit-keyframes ml {
+  0%   { width: 0px;  }
+  100% { width: 40%;  }
 }
 
 /* ------------------------------------------------------------------ */

@@ -234,51 +234,51 @@ ul#nav li.current a { color: #F06000; }
 
 
 /* ------------------------------------------------------------------ */
-/* d. Resume Section
+/* d. 1) Skills Section
 /* ------------------------------------------------------------------ */
 
-#resume {
+#skills {
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #F06000; }
-#resume a:hover, #resume a:focus { color: #313131; }
+#skills a, #skills a:visited  { color: #F06000; }
+#skills a:hover, #skills a:focus { color: #313131; }
 
-#resume h1 {
+#skills h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
-#resume h1 span {
+#skills h1 span {
    border-bottom: 3px solid #F06000;
    padding-bottom: 6px;
 }
-#resume h3 {
+#skills h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
-#resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#skills .header-col { padding-top: 9px; }
+#skills .main-col { padding-right: 10%; }
 
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
-#resume .info {
+#skills .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #313131;
    margin-bottom: 18px;
    margin-top: 9px;
 }
-#resume .info span {
+#skills .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
-#resume .date {
+#skills .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
@@ -454,6 +454,109 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
+
+/* ------------------------------------------------------------------ */
+/* d. 1) Experience Section
+/* ------------------------------------------------------------------ */
+
+#experience {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#experience a, #experience a:visited  { color: #F06000; }
+#experience a:hover, #experience a:focus { color: #313131; }
+
+#experience h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#experience h1 span {
+   border-bottom: 3px solid #F06000;
+   padding-bottom: 6px;
+}
+#experience h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#experience .header-col { padding-top: 9px; }
+#experience .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#experience .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #313131;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#experience .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#experience .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
+
+
+/* ------------------------------------------------------------------ */
+/* d. 3) Education Section
+/* ------------------------------------------------------------------ */
+
+#education {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#education a, #education a:visited  { color: #F06000; }
+#education a:hover, #education a:focus { color: #313131; }
+
+#education h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#education h1 span {
+   border-bottom: 3px solid #F06000;
+   padding-bottom: 6px;
+}
+#education h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#education .header-col { padding-top: 9px; }
+#education .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#education .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #313131;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#education .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#education .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section

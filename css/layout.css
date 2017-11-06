@@ -244,8 +244,8 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#skills a, #skills a:visited  { color: #F06000; }
-#skills a:hover, #skills a:focus { color: #313131; }
+#skills a, #skills a:visited  { color: #313131; }
+#skills a:hover, #skills a:focus { color: #F06000; }
 
 #skills h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -466,8 +466,8 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#experience a, #experience a:visited  { color: #F06000; }
-#experience a:hover, #experience a:focus { color: #313131; }
+#experience a, #experience a:visited  { color: #313131; }
+#experience a:hover, #experience a:focus { color: #F06000; }
 
 #experience h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -518,8 +518,8 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#education a, #education a:visited  { color: #F06000; }
-#education a:hover, #education a:focus { color: #313131; }
+#education a, #education a:visited  { color: #313131; }
+#education a:hover, #education a:focus { color: #F06000; }
 
 #education h1 {
    font: 18px/24px 'opensans-bold', sans-serif;

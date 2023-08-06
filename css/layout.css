@@ -408,19 +408,19 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .cloud {
-    width: 50%;
+    width: 90%;
     -moz-animation: cloud 2s ease;
     -webkit-animation: cloud 2s ease;
 }
 
 @-moz-keyframes cloud {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 90%;  }
 }
 
 @-webkit-keyframes cloud {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 90%;  }
 }
 
 .data {
